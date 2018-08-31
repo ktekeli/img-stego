@@ -2,10 +2,10 @@
 
 # img-stego
 
-[![language](https://img.shields.io/badge/language-csharp-purple.svg)](https://github.com/ktekeli/img-stego)
+[![Build](https://img.shields.io/travis/ktekeli/img-stego.svg)](https://travis-ci.org/ktekeli/img-stego)
+[![Language](https://img.shields.io/badge/language-csharp-purple.svg)](https://github.com/ktekeli/img-stego)
 [![Licence](https://img.shields.io/github/license/ktekeli/img-stego.svg)](https://github.com/ktekeli/img-stego/blob/master/LICENSE)
 [![Release](https://img.shields.io/badge/release-v1.0-blue.svg)](https://github.com/ktekeli/img-stego)
-[![HitCount](http://hits.dwyl.com/{ktekeli}/{img-stego}.svg?style=flat)](https://github.com/ktekeli/img-stego)
 
 > A complete desktop application to hide any kind of data inside bitmap images.
 
@@ -31,7 +31,7 @@ This program was developed in Visual Studio 2015 with C# language under Windows 
 
 ## Usage
 
-This project is uploaded as a form application, and there is a compiled version in the repository for the [test](https://github.com/ktekeli/img-stego/tree/master/test).
+This project is uploaded as a form application, and compiled [binary file](https://github.com/ktekeli/img-stego/releases/download/v1.0/IMG-Stego.exe) for Windows is attached in the release v1.0.
 
 **Embedding Text**
 
