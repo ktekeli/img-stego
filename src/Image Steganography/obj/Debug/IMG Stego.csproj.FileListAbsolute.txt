@@ -1,0 +1,20 @@
+C:\othersGithub\img-stego\src\Image Steganography\bin\Debug\IMG Stego.exe.config
+C:\othersGithub\img-stego\src\Image Steganography\bin\Debug\IMG Stego.exe
+C:\othersGithub\img-stego\src\Image Steganography\bin\Debug\IMG Stego.pdb
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\IMG Stego.csproj.AssemblyReference.cache
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\IMG_Stego.FormStego.resources
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\Image_Steganography.Properties.Resources.resources
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\IMG Stego.csproj.GenerateResource.cache
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\IMG Stego.csproj.CoreCompileInputs.cache
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\IMG Stego.exe
+C:\othersGithub\img-stego\src\Image Steganography\obj\Debug\IMG Stego.pdb
+C:\Github\img-stego\src\Image Steganography\obj\Debug\IMG Stego.csproj.AssemblyReference.cache
+C:\Github\img-stego\src\Image Steganography\obj\Debug\IMG_Stego.FormStego.resources
+C:\Github\img-stego\src\Image Steganography\obj\Debug\Image_Steganography.Properties.Resources.resources
+C:\Github\img-stego\src\Image Steganography\obj\Debug\IMG Stego.csproj.GenerateResource.cache
+C:\Github\img-stego\src\Image Steganography\obj\Debug\IMG Stego.csproj.CoreCompileInputs.cache
+C:\Github\img-stego\src\Image Steganography\obj\Debug\IMG Stego.exe
+C:\Github\img-stego\src\Image Steganography\obj\Debug\IMG Stego.pdb
+C:\Github\img-stego\src\Image Steganography\bin\Debug\IMG Stego.exe.config
+C:\Github\img-stego\src\Image Steganography\bin\Debug\IMG Stego.exe
+C:\Github\img-stego\src\Image Steganography\bin\Debug\IMG Stego.pdb
