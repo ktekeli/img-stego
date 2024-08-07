@@ -122,6 +122,7 @@ namespace IMG_Stego
             byte newBlue = getByte(BlueBits);
 
             return Color.FromArgb(newRed, newGreen, newBlue);
+            #endregion
 
         }
 
@@ -217,7 +218,7 @@ namespace IMG_Stego
             {
                 string aString = Convert.ToString(b[j-3]);
                 Color pixel = mainImage.GetPixel(mainImage.Width - j - 1, mainImage.Height - 1);
-                pixel = embed(pixel, getStringBits(aString)); 
+                pixel = embed(pixel, getStringBits(aString));
                 mainImage.SetPixel(mainImage.Width - j - 1, mainImage.Height - 1, pixel);
             }
 
@@ -235,7 +236,7 @@ namespace IMG_Stego
                     {
                         if (k < textbox.Length)
                         {
-                            string msg = Convert.ToString(textarray[i + j]);
+                            string msg = Convert.ToString(textarray[k]);
                             Color pixel = mainImage.GetPixel(j, i);     
                             pixel = embed(pixel, getStringBits(msg));
                             mainImage.SetPixel(j, i, pixel);
@@ -638,7 +639,6 @@ namespace IMG_Stego
             labelProgress.Text = "Completed!";
             string pathRecoded = Path.GetDirectoryName(ofd.FileName) + "\\" + name;
 
-            #endregion
             #endregion
 
             sw.Stop();
